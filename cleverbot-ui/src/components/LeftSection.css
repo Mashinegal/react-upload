@@ -1,0 +1,46 @@
+/* LeftSection.css */
+.left-content h1 {
+    font-size: 2.5rem;
+    color: #2b1a4f;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  .left-content p {
+    font-size: 1.2rem;
+    color: #706f8f;
+    margin-bottom: 2rem;
+  }
+  
+  .get-started-btn {
+    background-color: #58c77c;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .get-started-btn:hover {
+    background-color: #4ca767;
+  }
+  
+  .user-stats {
+    margin-top: 3rem;
+  }
+  
+  .stat {
+    margin-bottom: 1.5rem;
+  }
+  
+  .stat h4 {
+    font-size: 1.5rem;
+    color: #2b1a4f;
+  }
+  
+  .stat p {
+    font-size: 1rem;
+    color: #706f8f;
+  }
+  

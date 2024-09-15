@@ -1,0 +1,15 @@
+/* components/AvatarSection.css */
+
+.avatar-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  

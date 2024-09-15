@@ -1,0 +1,20 @@
+/* MainPage.css */
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #f7e7ff;
+    height: 100vh;
+  }
+  
+  .left-section, .right-section {
+    flex: 1;
+    padding: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .main-container {
+      flex-direction: column;
+    }
+  }
+  

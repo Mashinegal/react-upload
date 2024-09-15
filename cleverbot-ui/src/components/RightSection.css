@@ -1,0 +1,50 @@
+/* RightSection.css */
+.right-content {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .illustration {
+    background-color: #ece1ff;
+    padding: 2rem;
+    border-radius: 1rem;
+    position: relative;
+  }
+  
+  .illustration p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #2b1a4f;
+  }
+  
+  .prompt-btn {
+    background-color: #58c77c;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .prompt-btn:hover {
+    background-color: #4ca767;
+  }
+  
+  @media (max-width: 768px) {
+    .right-content {
+      margin-top: 2rem;
+    }
+  }
+
+  /* RightSection.css */
+.cleverbot-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+  
+  
